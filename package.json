@@ -1,0 +1,21 @@
+{
+  "name": "lodash-zipobjectdeep-example",
+  "version": "1.0.0",
+  "description": "A simple project demonstrating the use of zipObjectDeep from lodash with TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node zipObjectDeepExample.ts",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.191",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.3.5"
+  }
+}
